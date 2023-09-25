@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AIRLINE_Vaishnavi", "AIRLINE_Vaishnavi\AIRLINE_Vaishnavi.dwproj", "{1E3E7D13-4676-4C66-B69D-7527B11ADF53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3E7D13-4676-4C66-B69D-7527B11ADF53}.Development|Default.ActiveCfg = Development
+		{1E3E7D13-4676-4C66-B69D-7527B11ADF53}.Development|Default.Build.0 = Development
+		{1E3E7D13-4676-4C66-B69D-7527B11ADF53}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F1F5E61-81B3-4F34-9887-6A3092ACA88F}
+	EndGlobalSection
+EndGlobal
